@@ -1,3 +1,6 @@
-# hello-world
-start with git
-wewew
+git pull
+
+git status
+git add *.py
+git commit
+git push origin <brach name>
